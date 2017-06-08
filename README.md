@@ -1,3 +1,4 @@
-## karma ready testing boiler plate 
+### Karma ready testing boiler plate 
 -----
-## uses webpack and express to serve devEnv
++ Uses webpack and express to serve devEnv
++ Node js and react for UI designing
