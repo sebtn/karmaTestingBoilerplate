@@ -1,21 +1,21 @@
 {
-  "name": "timerapp",
+  "name": "biolerplate",
   "version": "1.0.0",
-  "description": "Timer App built on React.js",
+  "description": "Boiler plate karma on React.js",
   "main": "webpack.config.js",
   "scripts": {
     "test": "karma start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebtn/TimerAppReacJs.git"
+    "url": "git+https://github.com/sebtn/karmaTestingBoilerplate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sebtn/TimerAppReacJs/issues"
+    "url": "https://github.com/sebtn/karmaTestingBoilerplate/issues"
   },
-  "homepage": "https://github.com/sebtn/TimerAppReacJs#readme",
+  "homepage": "https://github.com/sebtn/karmaTestingBoilerplate#readme",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
