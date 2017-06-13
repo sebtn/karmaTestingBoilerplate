@@ -9,11 +9,6 @@ module.exports = {
     path: path.resolve( __dirname, 'public'),
     filename: 'bundle.js',
   },
-  resolve: { 
-    alias: {
-
-    }
-  },
   module: {
     loaders: [
       {
@@ -31,5 +26,4 @@ module.exports = {
     ]
   },
   devtool: 'cheap-module-eval-source-map'
-  // devtool: 'inline-source-map'
 }
